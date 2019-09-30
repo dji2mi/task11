@@ -1,0 +1,7 @@
+{
+    "Category": {
+        "isCollection": false,
+        "selector": "//a[text()='Power']"
+    }
+    
+}
